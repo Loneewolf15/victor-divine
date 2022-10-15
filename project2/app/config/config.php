@@ -8,7 +8,7 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'http://localhost/project2');
+  define('URLROOT', 'https://victor-divine.herokuapp.com/');
   // Site Name
   define('SITENAME', 'myPortfolio');
   // App Version
